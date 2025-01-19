@@ -2,8 +2,6 @@
 
 A modern, interactive web application that generates beautiful themed images using AI. Built with React and Material-UI, featuring a premium user experience with animations and advanced features.
 
-![Zodiac Theme Generator](preview.png)
-
 ## ✨ Features
 
 ### Core Functionality
@@ -101,10 +99,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
+Your Name - Saqlain Abbas
+Gmail - saqlainrazee@gmail.com
 Project Link: [https://github.com/yourusername/zodiac-theme-generator](https://github.com/yourusername/zodiac-theme-generator)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Saqlain Abbas
